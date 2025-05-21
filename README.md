@@ -6,7 +6,7 @@ This is a simple web app that changes the background color of the page to a rand
 
 ## 📸 Preview
 
-![preview](https://via.placeholder.com/600x300.png?text=Random+Background+Color+Changer)
+![preview]([https://via.placeholder.com/600x300.png?text=Random+Background+Color+Changer](http://127.0.0.1:5500/index.html))
 
 ---
 
